@@ -1,8 +1,9 @@
-#### Languages & IDE
+#### Languages, IDE & OS
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&color=0E1117)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=blue&color=0E1117)
 ![Shell](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=powershell&logoColor=white&color=0E1117)
 ![IDEA](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=IntelliJIDEA&color=0E1117)
+![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=apple&color=0E1117)
 
 #### Technologies & Frameworks
 ![Spring](https://img.shields.io/badge/Spring_%28Boot%2C_MVC%2C_DATA_JPA%2C_SECURITY%2C_REST_API%29-black?style=for-the-badge&logo=spring&color=0E1117)
