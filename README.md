@@ -16,8 +16,8 @@
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&color=0E1117)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue&color=0E1117)
 ![jUnit](https://img.shields.io/badge/jUnit-black?style=for-the-badge&logo=JUnit5&color=0E1117)
+![Mockito](https://img.shields.io/badge/Mockito-black?style=for-the-badge&logo=mocha&logoColor=green&color=0E1117)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&color=0E1117)
-
 
 <details>
   
