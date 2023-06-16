@@ -20,7 +20,6 @@
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&color=0E1117)
 
 <details>
-  
   <p align="center">
   <a href="https://github.com/Jormundgar">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jormundgar&theme=github_dark" />
