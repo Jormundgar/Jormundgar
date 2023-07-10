@@ -7,8 +7,7 @@
 
 #### Technologies & Frameworks
 ![Spring](https://img.shields.io/badge/Spring_%28Boot%2C_MVC%2C_DATA_JPA%2C_SECURITY%2C_REST_API%29-black?style=for-the-badge&logo=spring&color=0E1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&color=0E1117)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&color=0E1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_%2F_MySQL-black?style=for-the-badge&logo=postgresql&color=0E1117)
 ![Hibernate](https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate&logoColor=red&color=0E1117)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&color=0E1117)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-black?style=for-the-badge&logo=thymeleaf&logoColor=green&color=0E1117)
