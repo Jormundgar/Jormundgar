@@ -4,7 +4,6 @@
 ![Shell](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=powershell&logoColor=white&color=0E1117)
 ![IDEA](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=IntelliJIDEA&color=0E1117)
 ![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=apple&color=0E1117)
-
 #### Technologies & Frameworks
 ![Spring](https://img.shields.io/badge/Spring_%28Boot%2C_MVC%2C_DATA_JPA%2C_SECURITY%2C_REST_API%29-black?style=for-the-badge&logo=spring&color=0E1117)
 ![Hibernate](https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate&logoColor=red&color=0E1117)
@@ -19,7 +18,6 @@
 ![jUnit](https://img.shields.io/badge/jUnit-black?style=for-the-badge&logo=JUnit5&color=0E1117)
 ![Mockito](https://img.shields.io/badge/Mockito-black?style=for-the-badge&logo=mocha&logoColor=green&color=0E1117)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&color=0E1117)
-
 <details>
   <p align="center">
   <a href="https://github.com/Jormundgar">
