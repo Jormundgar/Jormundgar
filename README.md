@@ -1,6 +1,7 @@
 #### Languages, IDE & OS
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&color=0E1117)
 ![SQL](https://img.shields.io/badge/SQL_%28PostgreSQL_%2F_MySQL%29-black?style=for-the-badge&logo=postgresql&logoColor=blue&color=0E1117)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&color=0E1117)
 ![Shell](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=powershell&logoColor=white&color=0E1117)
 ![IDEA](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=IntelliJIDEA&color=0E1117)
 ![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=apple&color=0E1117)
