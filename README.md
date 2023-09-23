@@ -11,6 +11,7 @@
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&color=0E1117)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-black?style=for-the-badge&logo=thymeleaf&logoColor=green&color=0E1117)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&color=0E1117)
+![Vaadin](https://img.shields.io/badge/Vaadin-black?style=for-the-badge&logo=vaadin&color=0E1117)
 ![Lombok](https://img.shields.io/badge/Lombok-black?style=for-the-badge&logo=pepsi&logoColor=red&color=0E1117)
 ![Maven](https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=apachemaven&color=0E1117)
 ![Tomcat](https://img.shields.io/badge/Tomcat-black?style=for-the-badge&logo=apachetomcat&logoColor=yellow&color=0E1117)
