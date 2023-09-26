@@ -7,19 +7,24 @@
 ![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=apple&color=0E1117)
 #### Technologies & Frameworks
 ![Spring](https://img.shields.io/badge/Spring_%28Boot%2C_MVC%2C_DATA_JPA%2C_SECURITY%2C_REST_API%2C_CLOUD%29-black?style=for-the-badge&logo=spring&color=0E1117)
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&color=0E1117)
+![Swagger](https://img.shields.io/badge/swagger-black?style=for-the-badge&logo=swagger&color=0E1117)
+![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes&color=0E1117)
+![Liquibase](https://img.shields.io/badge/liquibase-black?style=for-the-badge&logo=liquibase&color=0E1117)
+![Vaadin](https://img.shields.io/badge/Vaadin-black?style=for-the-badge&logo=vaadin&color=0E1117)
 ![Hibernate](https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate&logoColor=red&color=0E1117)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&color=0E1117)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-black?style=for-the-badge&logo=thymeleaf&logoColor=green&color=0E1117)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&color=0E1117)
-![Vaadin](https://img.shields.io/badge/Vaadin-black?style=for-the-badge&logo=vaadin&color=0E1117)
 ![Lombok](https://img.shields.io/badge/Lombok-black?style=for-the-badge&logo=pepsi&logoColor=red&color=0E1117)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&color=0E1117)
 ![Maven](https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=apachemaven&color=0E1117)
 ![Tomcat](https://img.shields.io/badge/Tomcat-black?style=for-the-badge&logo=apachetomcat&logoColor=yellow&color=0E1117)
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&color=0E1117)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue&color=0E1117)
 ![jUnit](https://img.shields.io/badge/jUnit-black?style=for-the-badge&logo=JUnit5&color=0E1117)
 ![Mockito](https://img.shields.io/badge/Mockito-black?style=for-the-badge&logo=mocha&logoColor=green&color=0E1117)
-![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&color=0E1117)
+
+
 <details>
   <p align="center">
   <a href="https://github.com/Jormundgar">
