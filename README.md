@@ -27,6 +27,6 @@
 <details>
   <p align="center">
 <a href="https://github.com/Jormundgar">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jormundgar&theme=github_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jormundgar&theme=github_dark"/>
   </a> 
 </p>
