@@ -7,6 +7,7 @@
 ![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=apple&color=0E1117)
 ##### Technologies & Frameworks
 ![Spring](https://img.shields.io/badge/Spring_%28Boot%2C_MVC%2C_DATA_JPA%2C_SECURITY%2C_REST_API%2C_CLOUD%29-black?style=for-the-badge&logo=spring&color=0E1117)
+![AWS](https://img.shields.io/badge/AWS_%28EC2%2C_S3%2C_Route_53%29-black?style=for-the-badge&logo=amazonaws&color=0E1117)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&color=0E1117)
 ![Swagger](https://img.shields.io/badge/swagger-black?style=for-the-badge&logo=swagger&color=0E1117)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes&color=0E1117)
