@@ -7,6 +7,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment: 
+      name: prod
     permissions:
       contents: write
     steps:
@@ -15,7 +17,6 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }}
           filename: metrics_languages.svg
-          base: repo
           config_timezone: Asia/Jerusalem
           plugin_languages: yes
           plugin_languages_sections: most-used
@@ -27,7 +28,6 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }}
           filename: metrics_repos.svg
-          base: repo
           plugin_repositories: yes
           plugin_repositories_featured: Jormundgar/SmartLibrarian
           plugin_repositories_pinned: 1
@@ -37,7 +37,6 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }}                # GitHub PAT
           filename: metrics_music.svg
-          base: repo
           config_timezone: Asia/Jerusalem
           plugin_music: yes
           plugin_music_provider: spotify
