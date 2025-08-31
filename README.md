@@ -12,10 +12,10 @@
   <!-- Строка 2: два столбца (языки и репозитории) -->
   <tr>
     <td align="center" valign="top">
-      <img src="/metrics_languages.svg" alt="Languages" width="450">
+      <img src="/metrics_languages.svg" alt="Languages" width="400">
     </td>
     <td align="center" valign="top">
-       <img src="/metrics_music.svg" alt="Music" width="450">
+       <img src="/metrics_music.svg" alt="Music" width="400">
     </td>
   </tr>
 
