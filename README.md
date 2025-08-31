@@ -15,7 +15,7 @@
       <img src="/metrics_languages.svg" alt="Languages" width="450">
     </td>
     <td align="center" valign="top">
-       <img src="/metrics_music.svg" alt="Music" width="500">
+       <img src="/metrics_music.svg" alt="Music" width="450">
     </td>
   </tr>
 
