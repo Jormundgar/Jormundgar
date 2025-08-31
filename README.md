@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="/metrics_languages.svg" alt="Languages" width="500" valign="middle">
-  <img src="/metrics_repos.svg" alt="Repos" width="500" valign="middle">
+  <img src="/metrics_languages.svg" alt="Languages" width="400" valign="middle">
+  <img src="/metrics_repos.svg" alt="Repos" width="400" valign="middle">
 </p>
 <p align="left">
-  <img src="/metrics_music.svg" alt="Music" valign="middle">
+  <img src="/metrics_music.svg" alt="Music" width="400" valign="middle">
 </p>
